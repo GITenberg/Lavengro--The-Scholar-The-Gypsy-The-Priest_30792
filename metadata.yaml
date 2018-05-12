@@ -1,0 +1,37 @@
+_repo: Lavengro--The-Scholar-The-Gypsy-The-Priest_30792
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sullivan, Edmund J. (Edmund Joseph)
+    alias: Sullivan, E. J. (Edmund Joseph)
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '8007'
+    url: http://www.gutenberg.org/2009/agents/8007
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+description: ''
+gutenberg_issued: '2009-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+title: 'Lavengro: The Scholar, The Gypsy, The Priest'
+url: http://www.gutenberg.org/ebooks/30792
